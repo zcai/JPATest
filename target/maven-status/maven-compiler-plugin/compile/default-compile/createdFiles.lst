@@ -1,0 +1,9 @@
+edu\harvard\channing\regepi\hibernate\test\Dataidform.class
+edu\harvard\channing\regepi\hibernate\test\Attachment.class
+edu\harvard\channing\regepi\hibernate\test\Manuscriptchecklist.class
+edu\harvard\channing\regepi\hibernate\test\TestClass.class
+edu\harvard\channing\regepi\hibernate\test\Authorcontribution.class
+edu\harvard\channing\regepi\hibernate\test\Comment.class
+edu\harvard\channing\regepi\hibernate\test\Reviewinfo.class
+edu\harvard\channing\regepi\hibernate\test\Reviewer.class
+edu\harvard\channing\regepi\hibernate\test\Status.class
